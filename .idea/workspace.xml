@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2caa6f25-e711-4589-8602-06ebe440578d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/create-shortenurl.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695288811096</updated>
-      <workItem from="1720334987290" duration="7284000" />
+      <workItem from="1720334987290" duration="8514000" />
     </task>
     <task id="LOCAL-00001" summary="테스트 코드에서 오류가 발생하도록 코드 수정">
       <option name="closed" value="true" />
@@ -139,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720345867479</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="의도적인 CD 실패">
+      <option name="closed" value="true" />
+      <created>1720348872965</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720348872965</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +161,7 @@
     <MESSAGE value="테스트 코드에서 오류가 발생하도록 코드 수정 (4)" />
     <MESSAGE value="테스트 코드에서 오류가 발생하도록 코드 수정 (5)" />
     <MESSAGE value="테스트 코드에서 오류가 발생하도록 코드 수정 (6)" />
-    <option name="LAST_COMMIT_MESSAGE" value="테스트 코드에서 오류가 발생하도록 코드 수정 (6)" />
+    <MESSAGE value="의도적인 CD 실패" />
+    <option name="LAST_COMMIT_MESSAGE" value="의도적인 CD 실패" />
   </component>
 </project>
