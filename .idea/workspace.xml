@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2caa6f25-e711-4589-8602-06ebe440578d" name="Changes" comment="">
+    <list default="true" id="2caa6f25-e711-4589-8602-06ebe440578d" name="Changes" comment="테스트 코드에서 오류가 발생하도록 코드 수정 (5)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/shortenurlservice/application/SimpleShortenUrlService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/co/shortenurlservice/application/SimpleShortenUrlService.java" afterDir="false" />
     </list>
@@ -90,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695288811096</updated>
-      <workItem from="1720334987290" duration="3252000" />
+      <workItem from="1720334987290" duration="5811000" />
     </task>
     <task id="LOCAL-00001" summary="테스트 코드에서 오류가 발생하도록 코드 수정">
       <option name="closed" value="true" />
@@ -124,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720339162749</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="테스트 코드에서 오류가 발생하도록 코드 수정 (5)">
+      <option name="closed" value="true" />
+      <created>1720339312302</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720339312303</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +143,7 @@
     <MESSAGE value="테스트 코드에서 오류가 발생하도록 코드 수정 (2)" />
     <MESSAGE value="테스트 코드에서 오류가 발생하도록 코드 수정 (3)" />
     <MESSAGE value="테스트 코드에서 오류가 발생하도록 코드 수정 (4)" />
-    <option name="LAST_COMMIT_MESSAGE" value="테스트 코드에서 오류가 발생하도록 코드 수정 (4)" />
+    <MESSAGE value="테스트 코드에서 오류가 발생하도록 코드 수정 (5)" />
+    <option name="LAST_COMMIT_MESSAGE" value="테스트 코드에서 오류가 발생하도록 코드 수정 (5)" />
   </component>
 </project>
